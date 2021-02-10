@@ -1,0 +1,28 @@
+
+.navbar-toggler-icon {
+    background-color: #bbb
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.48);
+}
+
+
+.main-nav {
+    color: whitesmoke;
+}
+
+.main-nav-active {
+    color: whitesmoke;
+}
+
+a {
+    color: black;
+    border-radius: 0.25rem;
+    padding: 0.4rem;
+}
+
+a:hover {
+    color: whitesmoke;
+    text-decoration: none;
+}

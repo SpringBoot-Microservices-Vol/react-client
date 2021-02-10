@@ -1,0 +1,42 @@
+#myButton {
+    margin: auto;
+}
+
+
+.button-importButton {
+    background-color: #33CC33; /* Green */
+    color: white;
+    border: none;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+
+.button-importButton:disabled {
+    opacity: 0.5;
+}
+
+.button-finalize-distribution {
+    background-color: #A52A2A; /* Green */
+    color: white;
+    border: none;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+
+.button-finalize-distribution:disabled {
+    opacity: 0.5;
+}
+
+.card-home {
+    margin-bottom: 50px;
+}
